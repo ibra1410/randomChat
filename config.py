@@ -12,7 +12,7 @@ TOKEN = str("6727991549:AAGzcFQ2TGMKzp6kFz1LUiMe1iN7bybeXpQ")
 delay = 1 # 1s
 
 # اختيار عدد البلاغات الازمة لحظر العضو
-max_reports = 20 # 20
+max_reports = 5 # 20
 
 # اختار اقصى مدة للجلسة
 session_time = 60*20 # 20m
